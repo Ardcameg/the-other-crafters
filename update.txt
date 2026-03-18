@@ -4,3 +4,5 @@
 > Bug Fixes
 * Others
 
+ver 1.0
++ Crafted!
