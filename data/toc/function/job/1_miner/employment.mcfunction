@@ -7,4 +7,4 @@ tellraw @s [{"text": "1. "},{"text":"Miner","color":"#bc763c","bold":true},{"tex
 tellraw @s [{"text": "+ Block Break Speed: "},{"text": "+400%", "color": "#00ff00"}]
 tellraw @s [{"text": "- Attack Damage: "},{"text": "-20%", "color": "#ff0000"}]
 tellraw @s [{"text": "- Attack Speed: "},{"text": "-75%", "color": "#ff0000"}]
-tellraw @s [{"text": "> ", "color": "#ffffff"},{"text": "[Even Stones are Ore] ", "bold": true, "color": "#bc763c"},{"text": "Earn experience points when you mine stone or deepslate", "color": "#bc763c"}]
+tellraw @s [{"text": "> ", "color": "#ffffff"},{"text": "[Even Stones are Ore] ", "bold": true, "color": "#bc763c"},{"text": "Earn experience points when you mine stone or deepslate.", "color": "#bc763c"}]
