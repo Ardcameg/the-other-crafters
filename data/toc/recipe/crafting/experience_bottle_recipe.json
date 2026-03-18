@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "EGE",
+        "LBL",
+        "EGE"
+    ],
+    "key": {
+        "L": "minecraft:lapis_lazuli",
+        "G": "minecraft:glowstone_dust",
+        "E": "minecraft:emerald",
+        "B": "minecraft:glass_bottle"
+    },
+    "result": {
+        "id": "minecraft:experience_bottle",
+        "count": 1
+    }
+}

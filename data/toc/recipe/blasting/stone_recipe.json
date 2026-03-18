@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": "minecraft:cobblestone",
+    "result": {
+        "id": "minecraft:stone"
+    },
+    "experience": 7.0,
+    "cookingtime": 100
+}

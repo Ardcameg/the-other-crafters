@@ -1,0 +1,1 @@
+tellraw @a [{"text":"Town of Crafters ","color":"#e8e800","bold":true},{"text": "is loaded!","color":"#ffffff", "bold": false}]

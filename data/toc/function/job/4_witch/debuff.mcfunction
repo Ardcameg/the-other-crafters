@@ -1,0 +1,9 @@
+execute if score @s toc_roles matches 4 run execute if score @s witch_debuff matches 0 run effect give @s minecraft:blindness infinite 0 true
+execute if score @s toc_roles matches 4 run execute if score @s witch_debuff matches 1 run effect give @s minecraft:darkness infinite 0 true
+execute if score @s toc_roles matches 4 run execute if score @s witch_debuff matches 2 run effect give @s minecraft:glowing infinite 0 true
+execute if score @s toc_roles matches 4 run execute if score @s witch_debuff matches 3 run effect give @s minecraft:jump_boost infinite 4 true
+execute if score @s toc_roles matches 4 run execute if score @s witch_debuff matches 4 run effect give @s minecraft:mining_fatigue infinite 1 true
+execute if score @s toc_roles matches 4 run execute if score @s witch_debuff matches 5 run effect give @s minecraft:poison infinite 0 true
+execute if score @s toc_roles matches 4 run execute if score @s witch_debuff matches 6 run effect give @s minecraft:unluck infinite 0 true
+execute if score @s toc_roles matches 4 run execute if score @s witch_debuff matches 7 run effect give @s minecraft:weakness infinite 0 true
+execute if score @s toc_roles matches 4 run execute if score @s witch_debuff matches 8 run effect give @s minecraft:hunger infinite 2 true

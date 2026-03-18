@@ -1,0 +1,1 @@
+scoreboard players set @s kill_count 0

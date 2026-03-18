@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": "minecraft:stone",
+    "result": {
+        "id": "minecraft:smooth_stone"
+    },
+    "experience": 7.0,
+    "cookingtime": 100
+}

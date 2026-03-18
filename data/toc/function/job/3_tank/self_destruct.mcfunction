@@ -1,0 +1,1 @@
+execute as @e[type=#minecraft:monsters, distance=0..5, sort=nearest] run damage @s 100 player_attack by @s

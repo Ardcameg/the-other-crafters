@@ -1,0 +1,66 @@
+1. Miner - Strike While It’s Ore.
+    + Block Break Speed: +400%
+    - Attack Damage: -20%
+    - Attack Speed: -75%
+    > [石鉱石 / Even Stones are Ores] 石または深層岩を掘ったとき、経験値を獲得する。
+
+2. Warrior - Blade Meets Fate.
+    + Attack Damage: +50%
+    + Attack Speed: +50%
+    - Block Break Speed: -50%
+    > [士気 / Morale] 倒したMobの数に応じて、様々なエフェクトを得る(重複)。
+        * 10体以上～: 攻撃力上昇 Lv.3
+        * 25体以上～: 耐性 Lv.1
+        * 50体以上～: 暗視 Lv.1
+        * 100体以上～: 体力増強 Lv.5
+        * 200体以上～: 移動速度上昇 Lv.3
+        * 500体以上～: 攻撃力上昇 Lv.10
+        * 1000体以上～: 空腹 Lv.4
+
+3. Tank - Stand Like Stone.
+    + Max Health: +100%
+    + Knockback Resistance: +999%
+    + Damage Taken: -40%
+    - Attack Speed: -25%
+    - Movement Speed: -20%
+    - Gravity: +25%
+    > [自爆 / Self-destruct] モンスターに殺害された時、半径5ブロック以内の全てのモンスターに100ダメージを与える。
+
+4. Witch - Brew Your Own Success.
+    > [調合 / Brewing] 有益なポーション効果と有害なポーション効果がそれぞれランダムに1つずつ付与される。効果は、死亡時にランダムに変更される。
+        # 以下の効果からランダムに選ばれる。
+        ## 有益な効果
+            * 水中呼吸 Lv.1
+            * 移動速度上昇 Lv.5
+            * 暗視 Lv.1
+            * 幸運 Lv.1
+            * 再生 Lv.3
+            * 村の英雄 Lv.5
+            * 耐性 Lv.1
+            * 攻撃力上昇 Lv.5
+        ## 有害な効果
+            * 盲目 Lv.1
+            * 暗闇 Lv.1
+            * 発光 Lv.1
+            * 跳躍力上昇 Lv.5
+            * 採掘速度低下 Lv.2
+            * 毒 Lv.1
+            * 不運 Lv.1
+            * 弱体化 Lv.1
+            * 空腹 Lv.3
+
+5. Gambler - Raise!
+    > [オール・イン！ / All-in!] 攻撃すると、66%の確率で、攻撃力上昇 Lv.255 と 耐性 Lv.5 が15秒間付与される。そうならなかった場合、自分に10000ダメージを与える。
+
+6. Builder - Shape the World.
+    + Fall Damage: -999%
+    + Step Height: +100%
+    + Block Interaction Range: +200%
+    - Attack Damage: -999%
+    - Max Health: -50%
+
+7. Judge - That's wrong!
+    + Attack Damage: +250%
+    + Attack Speed: +50%
+    > [自責 / Self-blame] モンスターを殺害したとき、[正義]を+1する。モンスター以外を殺害したとき、自分に[正義]に応じて1ダメージを与える。[正義]をリセットする。
+    > [正義]の初期値は10。

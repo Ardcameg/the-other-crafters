@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": "#c:obsidians",
+    "result": {
+        "id": "minecraft:ancient_debris"
+    },
+    "experience": 0.2,
+    "cookingtime": 3600
+}

@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:glow_ink_sac",
+        "#minecraft:sand"
+    ],
+    "result": {
+        "id": "minecraft:ink_sac",
+        "count": 1
+    }
+}

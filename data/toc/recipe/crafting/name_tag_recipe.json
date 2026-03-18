@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:armor_stand",
+        "#minecraft:cords",
+        "#minecraft:signs"
+    ],
+    "result": {
+        "id": "minecraft:name_tag",
+        "count": 1
+    }
+}

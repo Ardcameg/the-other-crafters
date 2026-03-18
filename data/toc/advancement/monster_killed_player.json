@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "killed_player": {
+      "trigger": "minecraft:entity_killed_player",
+      "conditions": {
+        "entity": {
+          "type": "#minecraft:monsters"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "toc:job/0_common/on_player_killed"
+  }
+}
