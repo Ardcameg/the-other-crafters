@@ -19,6 +19,10 @@ scoreboard objectives add mined_deepslate minecraft.mined:minecraft.deepslate
 ## キルカウント
 scoreboard objectives add kill_count minecraft.custom:minecraft.mob_kills
 
+# 3. Tank
+## ダメージカウント
+scoreboard objectives add damage_count dummy
+
 # 4. Witch
 ## デスカウント
 scoreboard objectives add death_count deathCount

@@ -1,4 +1,4 @@
-title @s actionbar {"text": "Tank", "color": "#8f8f8f"}
+title @s actionbar [{"text": "Tank", "color": "#8f8f8f"},{"text": " - ", "color": "#ffffff"},{"text": "[Counterattack] ", "color": "#8f8f8f", "bold": true},{"score": {"name": "@s", "objective": "damage_count"}, "color": "#8f8f8f", "bold": false}]
 # Buff
 attribute @s minecraft:knockback_resistance modifier add toc:knockback_resistance 1 add_value
 attribute @s minecraft:max_health modifier add toc:max_health 1 add_multiplied_total
