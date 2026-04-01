@@ -6,6 +6,8 @@ scoreboard players reset @s mined_stone
 scoreboard players reset @s mined_deepslate
 ## 2. Warrior
 scoreboard players reset @s kill_count
+## 3. Tank
+scoreboard players reset @s damage_count
 ## 4. Witch
 scoreboard players reset @s death_count
 scoreboard players reset @s witch_buff

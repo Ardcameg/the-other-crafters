@@ -8,9 +8,8 @@ ver 1.0
 + Crafted!
 
 ver 1.1
-~ Rework Tank's skill
-> Some function names which are prone to causing confusion are now fixed.
-
-ver 1.1.1
-~ Rename Datapack Name
-~ Change Pack.png
+~ [Self-distruct]
+    - Old:  When killed by a monster, you deal 100 damage to all monters within a 5-block radius.
+    + New:  When attacked by a monster, you gain 1 [Counterattack]. 
+            When killed by a monster, you deal 2 damage for each [Counterattack] to all monsters within a 5-block radius and reset your [Counterattack]. 
+            The default value of [Counterattack] is 1.

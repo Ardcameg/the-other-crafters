@@ -1,0 +1,19 @@
+{
+    "criteria": {
+        "damaged": {
+            "trigger": "minecraft:entity_hurt_player",
+            "conditions": {
+                "damage": {
+                    "type": {
+                    "source_entity": {
+                        "type": "#minecraft:monsters"
+                    }
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "toc:job/0_common/on_player_attacked"
+    }
+}

@@ -1,0 +1,1 @@
+scoreboard players add @s damage_count 1
