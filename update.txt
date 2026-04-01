@@ -6,3 +6,11 @@
 
 ver 1.0
 + Crafted!
+
+ver 1.1
+~ Rework Tank's skill
+> Some function names which are prone to causing confusion are now fixed.
+
+ver 1.1.1
+~ Rename Datapack Name
+~ Change Pack.png
